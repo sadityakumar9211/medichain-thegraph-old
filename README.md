@@ -51,7 +51,7 @@
   </p>
 </div>
 
-### This is the Front-end repository of this project. 
+### This is the `The Graph` repository of this project. 
 
 <!-- TABLE OF CONTENTS -->
 <details>
